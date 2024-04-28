@@ -9,4 +9,5 @@
 
 Miembros del equipo: 
 
+Hansel Zapiain Rodriguez (A00469031)
 Miguel Guillermo Galindo Orozco (A01793695) 
